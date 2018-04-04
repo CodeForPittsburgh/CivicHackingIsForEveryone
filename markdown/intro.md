@@ -23,7 +23,6 @@
 <!-- .slide: data-state="normal" id="Introductions" data-menu-title="Introductions" -->
 ## Introductions are in order
 
-<span style="color:white">
 <table>
   <tr>
     <th> <center> <img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAIA_wDGAAAAAQAAAAAAAAsLAAAAJDgzYWE2ZGExLTY0NjQtNGRlYy04MjYwLTE1NmFjZTIyMmEyMA.jpg" width="200" height="200"/> </center>
@@ -44,4 +43,3 @@
     <td><img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" width="25" height="25"/> @PghAdventurer</td>
   </tr>
 </table>
-</span>
