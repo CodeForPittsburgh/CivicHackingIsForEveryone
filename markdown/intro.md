@@ -10,15 +10,18 @@
 
 ![alt text][qr]
 
-[qr]: https://github.com/melynnduh/CivicHackingIsForEveryone/images/QR.png "link to the presentation"
+[qr]: https://melynnduh.github.io/CivicHackingIsForEveryone/images/QR.png "link to the presentation"
 
 <!-- .slide: data-state="normal" id="Logistics & Credits" data-menu-title="Before we begin..."-->
 
 ## Eat, Drink, Be Merry!
 
+![alt text][c&s]
 ![alt text][microsoft]
 ![alt_text][wprdc]
 
+
+[c&s]: "great partner and welcoming venue"
 [microsoft]: http://globalaccessibilitynews.com/files/2013/02/Microsoft-Logo.jpg "wonderful sponsor"
 [wprdc]: http://tools.wprdc.org/r/wprdc-dashboard/images/logo_in_gray.png "excellent sponsor"
 
