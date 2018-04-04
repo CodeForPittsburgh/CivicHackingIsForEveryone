@@ -23,7 +23,7 @@
 <!-- .slide: data-state="normal" id="Introductions" data-menu-title="Introductions" -->
 ## Introductions are in order
 
-<font color="white">
+<span style="color:white">
 <table>
   <tr>
     <th> <center> <img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAIA_wDGAAAAAQAAAAAAAAsLAAAAJDgzYWE2ZGExLTY0NjQtNGRlYy04MjYwLTE1NmFjZTIyMmEyMA.jpg" width="200" height="200"/> </center>
@@ -40,4 +40,4 @@
     <td>Loves bicycling</td>
   </tr>
 </table>
-</font>
+</span>
