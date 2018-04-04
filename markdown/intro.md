@@ -20,8 +20,7 @@
 ![alt text][microsoft]
 ![alt_text][wprdc]
 
-
-[c&s]: "great partner and welcoming venue"
+[c&s]: https://codeandsupply.co/assets/cs_imprint_invert-3581b8ff929264b6f700740570bbba6f8bc4984593c841b08d47a66f4e20b30b.png "great partner and welcoming venue"
 [microsoft]: http://globalaccessibilitynews.com/files/2013/02/Microsoft-Logo.jpg "wonderful sponsor"
 [wprdc]: http://tools.wprdc.org/r/wprdc-dashboard/images/logo_in_gray.png "excellent sponsor"
 
