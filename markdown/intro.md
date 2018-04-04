@@ -1,8 +1,12 @@
 <!-- .slide: data-state="normal" id="title" data-menu-title="Title" -->
 # Civic Hacking is for Everyone!
-> *(Yes, even you!)*
+ *(Yes, even you!)*
 
-Code & Supply Community Center | Thursday, April 5, 2018
+##### Code & Supply Community Center | Thursday, April 5, 2018
+
+![link to presentation][qr]
+
+[qr]: https://github.com/melynnduh/CivicHackingIsForEveryone/blob/master/images/QR.png
 
 
 <!-- .slide: data-state="normal" id="Logistics & Credits" data-menu-title="Before we begin..."-->
