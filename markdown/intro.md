@@ -13,13 +13,9 @@
 [qr]: https://melynnduh.github.io/CivicHackingIsForEveryone/images/QR.png "link to the presentation"
 
 
-
-
-
-
 <!-- .slide: data-state="normal" id="Logistics & Credits" data-menu-title="Before we begin..."-->
 
-## These organizations deserve hugs:
+# These organizations deserve hugs:
 
 ![alt text][c&s]
 ![alt text][microsoft]
