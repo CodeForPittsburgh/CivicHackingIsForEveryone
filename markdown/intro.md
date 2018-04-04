@@ -39,5 +39,9 @@
     <td>Loves nerding out and data visualizations</td>
     <td>Loves bicycling</td>
   </tr>
+    <tr>
+    <td> </td>
+    <td><img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" width="25" height="25"/> @PghAdventurer</td>
+  </tr>
 </table>
 </span>
