@@ -36,12 +36,12 @@
       <br> Ellie Newman </th>
   </tr>
   <tr>
-    <td>Works for Allegheny County</td>
-    <td>Works for Allegheny County</td>
+    <td>GIS for Allegheny County</td>
+    <td>Allegheny County - County Stat</td>
   </tr>
   <tr>
-    <td>Loves nerding out and data visualizations</td>
-    <td>Loves bicycling</td>
+    <td>Loves Pittsburgh and visualizations (esp. maps!)</td>
+    <td>Loves bicycling and all the data!</td>
   </tr>
     <tr>
     <td> </td>
