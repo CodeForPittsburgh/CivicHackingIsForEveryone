@@ -1,14 +1,11 @@
 <!-- .slide: data-state="normal" id="title" data-menu-title="Title" -->
 # Civic Hacking is for Everyone!
+(Yes, even you!)
 
 Code & Supply Community Center | Thursday, April 5, 2018
 
-<!-- .slide: data-state="normal" id="subtitle" data-menu-title="Title" -->
-# Civic Hacking is for Everyone!
 
-Yes, even you!
-
-<!-- .slide: data-state="normal" id="Logistics & Credits" -->
+<!-- .slide: data-state="normal" id="Logistics & Credits" data-menu-title="Before we begin..."-->
 
 ## Eat, Drink, Be Merry!
 ## Get involved in tech community.
