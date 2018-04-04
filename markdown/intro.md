@@ -44,7 +44,7 @@
     <td>Loves bicycling and all the data!</td>
   </tr>
     <tr>
-    <td> </td>
+      <td><a href="mailto:Melinda.Angeles@AlleghenyCounty.US">Melinda.Angeles@AlleghenyCounty.US</a></td>
     <td valign="middle"><img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" width="30" height="30"/> @PghAdventurer</td>
   </tr>
 </table>
