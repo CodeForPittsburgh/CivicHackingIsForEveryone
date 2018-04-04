@@ -4,12 +4,7 @@
 
 ###### Code & Supply Community Center | Thursday, April 5, 2018
 
-<!-- .slide: data-state="normal" id="qrcode" data-menu-title="QR Code" -->
-
-![link to presentation][qr]
-
-[qr]: https://github.com/melynnduh/CivicHackingIsForEveryone/blob/master/images/QR.png
-
+##### (https://codeforpittsburgh.github.io/CivicHackingIsForEveryone/)
 
 <!-- .slide: data-state="normal" id="Logistics & Credits" data-menu-title="Before we begin..."-->
 
