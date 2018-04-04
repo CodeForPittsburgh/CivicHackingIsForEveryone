@@ -16,7 +16,8 @@
 ### These organizations deserve hugs:
 
 <img src="https://pbs.twimg.com/profile_images/882713744236740608/HYUZoB7p_400x400.jpg" alt="the best venue ever!" width="200" height="200"/> <img src="https://pbs.twimg.com/profile_images/835155751631007745/ZkzDdJkY_400x400.jpg" alt="awesome local tech advocate" width="200" height="200"/> 
-<img src="https://c.s-microsoft.com/en-us/CMSImages/ImgTwo.jpg?version=2432BB03-C90E-EF03-A2BB-BFA093E1A899" alt="wonderful local sponsor" width="395" height="200"/> <img src="https://media.glassdoor.com/sql/1450911/choolaah-indian-bbq-squarelogo-1484344494578.png" alt="responsible for today's 'yums'" width="200" height="200"/>
+
+<br><img src="https://c.s-microsoft.com/en-us/CMSImages/ImgTwo.jpg?version=2432BB03-C90E-EF03-A2BB-BFA093E1A899" alt="wonderful local sponsor" width="380" height="200"/> <img src="https://media.glassdoor.com/sql/1450911/choolaah-indian-bbq-squarelogo-1484344494578.png" alt="responsible for today's 'yums'" width="200" height="200"/>
 
 
 <!-- .slide: data-state="normal" id="Introductions" data-menu-title="Introductions" -->
