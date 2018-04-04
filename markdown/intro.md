@@ -8,7 +8,7 @@
 
 <small> (https://codeforpittsburgh.github.io/CivicHackingIsForEveryone/) </small>
 <br>
-<small>'m' slide menu | 'o' overview of slides | '?' list of keyboard shortcuts</small>
+<small>'m' slide menu | 'o' overview of slides | spacebar to advance the slides </small>
 <br><img src="https://melynnduh.github.io/CivicHackingIsForEveryone/images/QR.png" alt="link to the presentation" width="200" height="200"/>
 
 
