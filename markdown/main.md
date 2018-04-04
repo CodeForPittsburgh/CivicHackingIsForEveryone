@@ -1,30 +1,22 @@
-# Main title
-
-Note: Add main section slides here.
+# Problem Solving Process
 
 
-## Level 2 heading
+## Identifying & Framing Problems
 
 Some additional information
 
 
-### Level 3 heading
+### Diagramming Problems
 
+make into manageable chunks
 * A bullet list.
 * Use these sparingly.
 
 
+## Seeking Solutions
 Just some text
 
-```bash
-#!/bin/sh
 
-# This is a code snippet.
-# It comes with syntax highlighting.
+Finding and Verifying Data Sources
 
-NUM=5
-
-for i in `seq $NUM`; do
-  echo "hello world $i"
-done
-```
+## Call to Action
