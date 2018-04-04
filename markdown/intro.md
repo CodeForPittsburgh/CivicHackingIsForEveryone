@@ -10,6 +10,7 @@
 
 <img src="https://melynnduh.github.io/CivicHackingIsForEveryone/images/QR.png" alt="link to the presentation" width="200" height="200"/>
 
+'m' slide menu | 'o' overview of slides | '?' list of keyboard shortcuts
 
 <!-- .slide: data-state="normal" id="Logistics & Credits" data-menu-title="Before we begin..."-->
 
