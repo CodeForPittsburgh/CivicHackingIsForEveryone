@@ -23,11 +23,12 @@
 <!-- .slide: data-state="normal" id="Introductions" data-menu-title="Introductions" -->
 ## Introductions are in order
 
+<font color="white">
 <table>
   <tr>
-    <th> <img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAIA_wDGAAAAAQAAAAAAAAsLAAAAJDgzYWE2ZGExLTY0NjQtNGRlYy04MjYwLTE1NmFjZTIyMmEyMA.jpg" width="200" height="200"/> 
+    <th> <center> <img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAIA_wDGAAAAAQAAAAAAAAsLAAAAJDgzYWE2ZGExLTY0NjQtNGRlYy04MjYwLTE1NmFjZTIyMmEyMA.jpg" width="200" height="200"/> </center>
       <br> Melinda Angeles </th>
-    <th> <img src="https://assets.thesca.org/styles/840x480/s3/s3fs-public/imported/corps_img/eleanor_newman.jpg?itok=bm25w_3t" width="300" height="200"/> 
+    <th> <center> <img src="https://assets.thesca.org/styles/840x480/s3/s3fs-public/imported/corps_img/eleanor_newman.jpg?itok=bm25w_3t" width="300" height="200"/> </center>
       <br> Ellie Newman </th>
   </tr>
   <tr>
@@ -39,3 +40,4 @@
     <td>Loves bicycling</td>
   </tr>
 </table>
+</font>
