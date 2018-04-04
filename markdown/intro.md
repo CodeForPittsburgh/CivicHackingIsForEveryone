@@ -4,7 +4,7 @@
 # Civic Hacking is for Everyone!
 '*(Yes, even you!)*'
 ***
-###### Code & Supply Community Center | Thursday, April 5, 2018
+###### Thursday, April 5, 2018
 
 (https://codeforpittsburgh.github.io/CivicHackingIsForEveryone/)
 
@@ -15,8 +15,7 @@
 
 <!-- .slide: data-state="normal" id="Logistics & Credits" data-menu-title="Before we begin..."-->
 
-# These organizations deserve hugs:
-
+### These organizations deserve hugs:
 ![alt text][c&s]
 ![alt text][microsoft]
 ![alt_text][wprdc]
