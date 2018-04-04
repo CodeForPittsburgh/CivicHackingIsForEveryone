@@ -8,7 +8,9 @@
 
 <small> (https://codeforpittsburgh.github.io/CivicHackingIsForEveryone/) </small>
 <br>
-<small>'m' slide menu | 'o' overview of slides | spacebar to advance the slides </small>
+<small> DESKTOP:'m' TOC | 'o' slide overview | spacebar to advance the slides </small>
+<br>
+<small> MOBILE: swipe up/down
 <br><img src="https://melynnduh.github.io/CivicHackingIsForEveryone/images/QR.png" alt="link to the presentation" width="200" height="200"/>
 
 
@@ -41,6 +43,6 @@
   </tr>
     <tr>
     <td> </td>
-    <td><img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" width="25" height="25"/> @PghAdventurer</td>
+    <td valign="middle"><img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" width="30" height="30"/> @PghAdventurer</td>
   </tr>
 </table>
