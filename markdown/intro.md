@@ -2,7 +2,7 @@
 # Civic Hacking is for Everyone!
  *(Yes, even you!)*
 
-##### Code & Supply Community Center | Thursday, April 5, 2018
+###### Code & Supply Community Center | Thursday, April 5, 2018
 
 <!-- .slide: data-state="normal" id="qrcode" data-menu-title="QR Code" -->
 
