@@ -2,6 +2,5 @@
 Yes, even you!
 * * *
 Speaker Name | [@speaker](https://twitter.com/speaker)
-Event | Date xz.ckmzx
-Note: Add introductory slides here.
+Event | Date xz.ckmzx introductory slides here.
 nd here's another one
