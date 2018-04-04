@@ -7,6 +7,7 @@
 ###### Thursday, April 5, 2018
 
 <small> (https://codeforpittsburgh.github.io/CivicHackingIsForEveryone/) </small>
+<br> 
 <br>
 <small> <b>DESKTOP:</b>  'm' TOC | 'o' slide overview | spacebar to advance the slides </small>
 <br>
