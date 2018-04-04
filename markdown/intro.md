@@ -2,7 +2,7 @@
 <!-- .slide: data-state="normal" id="Title" data-menu-title="Title" -->
 
 # Civic Hacking is for Everyone!
-'*(Yes, even you!)*'
+```(Yes, even you!) ```
 ***
 ###### Thursday, April 5, 2018
 
