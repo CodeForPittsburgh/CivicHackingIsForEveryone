@@ -8,9 +8,9 @@
 
 <small> (https://codeforpittsburgh.github.io/CivicHackingIsForEveryone/) </small>
 <br>
-<small> DESKTOP:'m' TOC | 'o' slide overview | spacebar to advance the slides </small>
+<small> <b>DESKTOP:</b>  'm' TOC | 'o' slide overview | spacebar to advance the slides </small>
 <br>
-<small> MOBILE: swipe up/down
+<small> <b>MOBILE</b>:  swipe up/down </small>
 <br><img src="https://melynnduh.github.io/CivicHackingIsForEveryone/images/QR.png" alt="link to the presentation" width="200" height="200"/>
 
 
