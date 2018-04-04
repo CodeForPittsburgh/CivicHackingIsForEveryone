@@ -10,7 +10,7 @@
 
 ![alt text][qr]
 
-[qr]: http://globalaccessibilitynews.com/files/2013/02/Microsoft-Logo.jpg "link to the presentation"
+[qr]: https://github.com/melynnduh/CivicHackingIsForEveryone/images/QR.png "link to the presentation"
 
 <!-- .slide: data-state="normal" id="Logistics & Credits" data-menu-title="Before we begin..."-->
 
@@ -20,8 +20,9 @@
 ![alt_text][wprdc]
 
 [microsoft]: http://globalaccessibilitynews.com/files/2013/02/Microsoft-Logo.jpg "wonderful sponsor"
-[wprdc]: "excellent sponsor"
+[wprdc]: http://tools.wprdc.org/r/wprdc-dashboard/images/logo_in_gray.png "excellent sponsor"
 
+choolah
 
 ## Get involved in tech community.
 
