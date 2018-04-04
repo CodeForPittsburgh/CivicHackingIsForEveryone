@@ -12,6 +12,7 @@
 <small> <b>DESKTOP:</b>  'm' TOC | 'o' slide overview | spacebar to advance the slides </small>
 <br>
 <small> <b>MOBILE</b>:  swipe up/down </small>
+<br> 
 <br><img src="https://melynnduh.github.io/CivicHackingIsForEveryone/images/QR.png" alt="link to the presentation" width="200" height="200"/>
 
 
