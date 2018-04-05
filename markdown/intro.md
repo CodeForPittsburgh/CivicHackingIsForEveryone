@@ -24,6 +24,8 @@
 
 <br><img src="https://c.s-microsoft.com/en-us/CMSImages/ImgTwo.jpg?version=2432BB03-C90E-EF03-A2BB-BFA093E1A899" alt="wonderful local sponsor" width="380" height="200"/> <img src="https://media.glassdoor.com/sql/1450911/choolaah-indian-bbq-squarelogo-1484344494578.png" alt="responsible for today's 'yums'" width="200" height="200"/>
 
+<br><img src="https://weinnovatepgh.net/wp-content/uploads/2017/12/Inclusive-Innovation-Week-2018-Logo-White-Background.png" alt="awesome whirlwind week!" width="400" height="200"/>
+
 
 <!-- .slide: data-state="normal" id="Introductions" data-menu-title="Introductions" -->
 ## Introductions are in order
