@@ -1,4 +1,4 @@
-# Coming up with what challenge to focus on
+### Coming up with what challenge to focus on
 
 > Be interested. Be involved. Meet people.
 
@@ -7,7 +7,7 @@
 * When you start talking to other people, you gain new perspectives that may influence your activism.
 
 
-# Framing the Issue
+## Framing the Issue
 
 Framing an issue helps structure thinking about what the problem is about and how it can be addressed. Successful framing puts you in a favorable position to direct the discussion of the problem and improves the chances of a successful solution. 
 
@@ -19,18 +19,17 @@ Single Angle Issues|Common Ground Issue
 - Teens must have access to contraceptives to prevent teen pregnancy. | 
 
 
-# Diagramming the Issue
+## Diagramming the Issue
 
 Ask "why?" and "how?" to break this problem into manageable chunks.
 
 
-# Seeking Solutions
-
+## Seeking Solutions
 
 Finding and Verifying Data Sources
 
 
-# Call to Action
+## Call to Action
 
 What do you do with your findings and results? 
 
