@@ -5,7 +5,7 @@ Civic means, "of, relating to, or belonging to a city, a citizen, or citizenship
 
 # ... Hacking?
 
-![alt text](https://github.com/melynnduh/CivicHackingIsForEveryone/blob/master/images/hack.PNG "I'm a hack... you're a hack... we're all hacks!")
+ <img src="https://github.com/melynnduh/CivicHackingIsForEveryone/blob/master/images/hack.PNG" alt="I'm a hack... you're a hack... we're all hacks!" style="width:500px;height:600px;"> 
 
 
 # Hacking!
