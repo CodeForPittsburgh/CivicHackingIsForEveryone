@@ -19,7 +19,7 @@ Teens must have access to contraceptives to prevent teen pregnancy. |
 
 ## Diagramming the Issue
 
-Your challenge is likely complex and it's unclear how to move forward. Ask "[why?](https://www.isixsigma.com/tools-templates/cause-effect/determine-root-cause-5-whys)" and "[how?](https://hatrabbits.com/en/how-how-diagram/)" to break this problem into manageable chunks. Your results may be easily organized in a [fishbone diagram](http://www.educational-business-articles.com/fishbone-diagram/).
+Your challenge is likely complex and it's unclear how to move forward. Ask "[why?](https://www.isixsigma.com/tools-templates/cause-effect/determine-root-cause-5-whys)" and "[how?](https://hatrabbits.com/en/how-how-diagram/)" to break this problem into manageable chunks. Diagram it out in a way that makes sense to you.
 
 
 ## Call to Action
