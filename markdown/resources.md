@@ -1,19 +1,14 @@
 # Resources
 
 
-# Data
+# Local Data Resources
 
 Open Data is your friend! Some websites that you may need to bookmark...
 
-
-### Local 
 * [Western Pennsylvania Regional Data Center or WPRDC](http://www.wprdc.org/) 
 * [Pennsylvania Spatial Data Access or PASDA](http://www.pasda.psu.edu/)
-
-
-### Federal/Global 
-* [Center for Disease Control or CDC](https://data.cdc.gov/)
-* [Census](https://www.census.gov/data/data-tools.html)
+* [Burgh's Eye View](https://pittsburghpa.shinyapps.io/BurghsEyeView/)
+* [Public Lab](https://publiclab.org/methods)
 
 
 ## Checking the Data
@@ -30,6 +25,21 @@ Like with any research project, check your sources!  Some sources of error in da
 * Open Refine
 
 
-# Visualization 
+# Visualization Resources
 
+
+### Infographics
+* Canva
+* Flat Icon
+
+
+### Charts and Graphs
+* Tableau Public
+* Google Sheets & Google Fusion Tables
+
+
+### Mapping
+* Carto
+* Google My Maps
+* Maps for Us
 
