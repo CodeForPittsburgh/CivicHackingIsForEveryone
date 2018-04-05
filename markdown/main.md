@@ -9,9 +9,7 @@
 
 ## Framing the Issue
 
-Framing an issue helps structure thinking about what the problem is about and how it can be addressed. Successful framing puts you in a favorable position to direct the discussion of the problem and improves the chances of a successful solution. 
-
-If the it is framed as "common ground," the issue can be addressed from many angles. Most societal concerns are a result of several different factors. By examining the issue at its broadest level, you can address many of these factors.
+<small>Framing an issue helps structure thinking about what the problem is about and how it can be addressed. Successful framing puts you in a favorable position to direct the discussion of the problem and improves the chances of a successful solution. </small>
 
 Single Angle Issues|Common Ground Issue
 ---|---
@@ -21,12 +19,7 @@ Single Angle Issues|Common Ground Issue
 
 ## Diagramming the Issue
 
-Ask "why?" and "how?" to break this problem into manageable chunks.
-
-
-## Seeking Solutions
-
-Finding and Verifying Data Sources
+Your challenge is likely complex and it's unclear how to move forward. Ask "why?" and "how?" to break this problem into manageable chunks.
 
 
 ## Call to Action
