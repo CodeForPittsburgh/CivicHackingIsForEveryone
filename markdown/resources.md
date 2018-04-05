@@ -3,7 +3,7 @@
 
 # Coming up with civic challenges
 
-Be interested. Be involved. Meet people.
+> Be interested. Be involved. Meet people.
 
 * Find out what really motivates you in your community.
 * Look up and attend meetings for your local community organizations. (see 
@@ -12,7 +12,9 @@ Be interested. Be involved. Meet people.
 
 # Local Data Resources
 
-> Open Data is your friend! Some websites that you may need to bookmark...
+> Open Data is your friend! 
+
+Some websites that you may need to bookmark...
 
 * [Western Pennsylvania Regional Data Center or WPRDC](http://www.wprdc.org/) 
 * [Burgh's Eye View](https://pittsburghpa.shinyapps.io/BurghsEyeView/)
@@ -57,5 +59,3 @@ Like with any research project, check your sources!  Some sources of error in da
 * [Google My Maps](https://www.google.com/mymaps)
 * [Maps for Us](https://mapsfor.us/)
 * [Google Fusion Tables](https://sites.google.com/site/fusiontablestalks/stories#UI)
-
-
