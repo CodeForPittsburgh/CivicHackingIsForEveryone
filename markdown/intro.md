@@ -9,7 +9,7 @@
 <small> (https://codeforpittsburgh.github.io/CivicHackingIsForEveryone/) </small>
 <br> 
 <br>
-<small> <b>DESKTOP:</b>  'm' TOC | 'o' slide overview | spacebar to advance the slides </small>
+<small> <b>DESKTOP:</b>  'm' TOC | spacebar to advance the slides </small>
 <br>
 <small> <b>MOBILE</b>:  swipe up/down </small>
 <br> 
