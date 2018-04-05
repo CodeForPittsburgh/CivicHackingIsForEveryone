@@ -8,7 +8,7 @@
 Some websites that you may need to bookmark...
 
 * [Western Pennsylvania Regional Data Center or WPRDC](http://www.wprdc.org/) 
-* [Burgh's Eye View](https://pittsburghpa.shinyapps.io/BurghsEyeView/)
+* [Burgh's Eye View](https://pittsburghpa.shinyapps.io/BurghsEyeView/) and [other tools collected on WPRDC](https://tools.wprdc.org/)
 * [Public Lab](https://publiclab.org/methods)
 
 
