@@ -1,16 +1,7 @@
 # Resources
 
 
-# Coming up with civic challenges
-
-> Be interested. Be involved. Meet people.
-
-* Find out what really motivates you in your community.
-* Look up and attend meetings for your local community organizations. 
-* When you start talking to other people, you gain new perspectives that may influence your activism.
-
-
-# Local Data Resources
+## Local Data Resources
 
 > Open Data is your friend! 
 
@@ -21,7 +12,7 @@ Some websites that you may need to bookmark...
 * [Public Lab](https://publiclab.org/methods)
 
 
-## Checking the Data
+### Checking the Data
 
 > ... but Open Data may be your enemy.
 
@@ -34,13 +25,13 @@ Make sure to check if the dataset
 * the source is reputable.
 
 
-## Cleaning the Data
+### Cleaning the Data
 
 * [Open Refine](http://openrefine.org/)
 * [Trifacta Wrangler](https://www.trifacta.com/products/wrangler/)
 
 
-# Visualization Resources
+## Visualization Resources
 
 
 ### Infographics
