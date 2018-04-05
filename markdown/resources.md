@@ -6,7 +6,7 @@
 > Be interested. Be involved. Meet people.
 
 * Find out what really motivates you in your community.
-* Look up and attend meetings for your local community organizations. (see 
+* Look up and attend meetings for your local community organizations. 
 * When you start talking to other people, you gain new perspectives that may influence your activism.
 
 
@@ -25,7 +25,9 @@ Some websites that you may need to bookmark...
 
 > ... but Open Data may be your enemy.
 
-Like with any research project, check your sources!  Some sources of error in data are very obvious, whereas others are more difficult to notice. Make sure to check if the dataset
+Like with any research project, check your sources!  Some sources of error in data are very obvious, whereas others are more difficult to notice. 
+
+Make sure to check if the dataset
 
 * is for your desired time frame,
 * is at the appropriate scale, and
