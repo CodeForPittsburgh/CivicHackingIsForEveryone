@@ -13,14 +13,16 @@
 
 Single Angle Issues|Common Ground Issue
 ---|---
-- Abstinence is the only acceptable method to prevent teen pregnancy. | Teen pregnancy is the higher issue. A variety of strategies may be needed to prevent adolescent pregnancy.
-- Teens must have access to contraceptives to prevent teen pregnancy. | 
+Abstinence is the only acceptable method to prevent teen pregnancy. | Teen pregnancy is the higher issue. A variety of strategies may be needed to prevent adolescent pregnancy.
+Teens must have access to contraceptives to prevent teen pregnancy. | 
 
 
 ## Diagramming the Issue
 
 Your challenge is likely complex and it's unclear how to move forward. Ask "why?" and "how?" to break this problem into manageable chunks.
-
+* [Fishbone Diagrams](http://www.educational-business-articles.com/fishbone-diagram/), 
+* [The How-How Diagram](https://hatrabbits.com/en/how-how-diagram/), and 
+* [The Five Whys](https://www.isixsigma.com/tools-templates/cause-effect/determine-root-cause-5-whys/)
 
 ## Call to Action
 
