@@ -1,23 +1,29 @@
+# Resources
+
+## Data
+
 Open Data is your friend! Some websites that you may need to bookmark...
 
-Local Resources
-- [Western Pennsylvania Regional Data Center or WPRDC](http://www.wprdc.org/) - You can also publish spatial or non-spatial datasets here! Contact the Allegheny County GIS Group if you would like your spatial dataset to be available to the public.
-- [Pennsylvania Spatial Data Access or PASDA](http://www.pasda.psu.edu/)
+
+### Local 
+* [Western Pennsylvania Regional Data Center or WPRDC](http://www.wprdc.org/) 
+* Pennsylvania Spatial Data Access or PASDA](http://www.pasda.psu.edu/)
 
 
-Federal/Global Resources
+### Federal/Global 
 
-- [Center for Disease Control or CDC](https://data.cdc.gov/)
-- [Census](https://www.census.gov/data/data-tools.html)
+* [Center for Disease Control or CDC](https://data.cdc.gov/)
+* [Census](https://www.census.gov/data/data-tools.html)
 
 
- Checking Precision & Accuracy
+## Checking the Data
 
 ... but Open Data may be your enemy.
-Like with any research project, check your sources!
 
-Some sources of error in GIS data are very obvious, whereas others are more difficult to notice. GIS software can make the users to think that their data is accurate and precise to a degree that is not quite real. 
+Like with any research project, check your sources!  Some sources of error in GIS data are very obvious, whereas others are more difficult to notice. 
 
+
+### 
 Scale, for example, is an inherent error in cartography; depending on the scale used, we will be able to represent different type of data, in a different quantity and with a different quality. Cartographers should always adapt the scale of work to the level of detail needed in their projects.
 
 Or errors can be intentionally introduced in GIS data. Most commonly, generalization which is used to reduce the amount of detail in a dataset, introduces error by removing aspects of a feature.
