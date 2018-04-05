@@ -28,6 +28,7 @@ Civic hackers can be programmers, designers, data scientists, good communicators
 
 Civic hacking isn’t just coding: Hacking the citizen experience is a *design* problem requiring thinking about processes and interactions.
 
+
 # "Code" for Pittsburgh = Civic Hacking in Pittsburgh
 
 > Code for Pittsburgh, the Pittsburgh region's Code for America Brigade, **makes the Pittsburgh region a better place** through the use of information and technology. Code for Pittsburgh is a grass-roots organization **inclusive of different interests, skill-sets, and works to establish connections will all types of communities.** Our members use projects, events, and advocacy to improve communities in a fun atmosphere. One key role of Code for Pittsburgh involves being a **relationship-builder.** We foster inclusive connections between government, nonprofit, academic, for profit communities, residents, civic technologists, analysts, designers, and many others.
