@@ -1,12 +1,20 @@
 # Resources
 
 
+# Coming up with civic challenges
+
+Be interested. Be involved. Meet people.
+
+* Find out what really motivates you in your community.
+* Look up and attend meetings for your local community organizations. (see 
+* When you start talking to other people, you gain new perspectives that may influence your activism.
+
+
 # Local Data Resources
 
 Open Data is your friend! Some websites that you may need to bookmark...
 
 * [Western Pennsylvania Regional Data Center or WPRDC](http://www.wprdc.org/) 
-* [Pennsylvania Spatial Data Access or PASDA](http://www.pasda.psu.edu/)
 * [Burgh's Eye View](https://pittsburghpa.shinyapps.io/BurghsEyeView/)
 * [Public Lab](https://publiclab.org/methods)
 
@@ -22,24 +30,27 @@ Like with any research project, check your sources!  Some sources of error in da
 
 
 ## Cleaning the Data
-* Open Refine
+* [Open Refine](http://openrefine.org/)
+* [Trifacta Wrangler](https://www.trifacta.com/products/wrangler/)
 
 
 # Visualization Resources
 
 
 ### Infographics
-* Canva
-* Flat Icon
+* [Canva](https://www.canva.com/)
+* [Flat Icon](https://www.flaticon.com/)
 
 
 ### Charts and Graphs
-* Tableau Public
-* Google Sheets & Google Fusion Tables
+* [Tableau Public](https://public.tableau.com/en-us/s/)
+* [Google Sheets](https://www.google.com/sheets/) & [Google Fusion Tables](https://sites.google.com/site/fusiontablestalks/stories#UI)
 
 
 ### Mapping
-* Carto
-* Google My Maps
-* Maps for Us
+* [Carto](https://carto.com/)
+* [Google My Maps](https://www.google.com/mymaps)
+* [Maps for Us](https://mapsfor.us/)
+* [Google Fusion Tables](https://sites.google.com/site/fusiontablestalks/stories#UI)
+
 
